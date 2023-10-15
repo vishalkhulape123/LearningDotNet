@@ -1,0 +1,14 @@
+C:\Users\Vishal\source\repos\LearningDotNet\First_Console_App\First_Console_App\First_Console_App\bin\Debug\net7.0\First_Console_App.exe
+C:\Users\Vishal\source\repos\LearningDotNet\First_Console_App\First_Console_App\First_Console_App\bin\Debug\net7.0\First_Console_App.deps.json
+C:\Users\Vishal\source\repos\LearningDotNet\First_Console_App\First_Console_App\First_Console_App\bin\Debug\net7.0\First_Console_App.runtimeconfig.json
+C:\Users\Vishal\source\repos\LearningDotNet\First_Console_App\First_Console_App\First_Console_App\bin\Debug\net7.0\First_Console_App.dll
+C:\Users\Vishal\source\repos\LearningDotNet\First_Console_App\First_Console_App\First_Console_App\bin\Debug\net7.0\First_Console_App.pdb
+C:\Users\Vishal\source\repos\LearningDotNet\First_Console_App\First_Console_App\First_Console_App\obj\Debug\net7.0\First_Console_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal\source\repos\LearningDotNet\First_Console_App\First_Console_App\First_Console_App\obj\Debug\net7.0\First_Console_App.AssemblyInfoInputs.cache
+C:\Users\Vishal\source\repos\LearningDotNet\First_Console_App\First_Console_App\First_Console_App\obj\Debug\net7.0\First_Console_App.AssemblyInfo.cs
+C:\Users\Vishal\source\repos\LearningDotNet\First_Console_App\First_Console_App\First_Console_App\obj\Debug\net7.0\First_Console_App.csproj.CoreCompileInputs.cache
+C:\Users\Vishal\source\repos\LearningDotNet\First_Console_App\First_Console_App\First_Console_App\obj\Debug\net7.0\First_Console_App.dll
+C:\Users\Vishal\source\repos\LearningDotNet\First_Console_App\First_Console_App\First_Console_App\obj\Debug\net7.0\refint\First_Console_App.dll
+C:\Users\Vishal\source\repos\LearningDotNet\First_Console_App\First_Console_App\First_Console_App\obj\Debug\net7.0\First_Console_App.pdb
+C:\Users\Vishal\source\repos\LearningDotNet\First_Console_App\First_Console_App\First_Console_App\obj\Debug\net7.0\First_Console_App.genruntimeconfig.cache
+C:\Users\Vishal\source\repos\LearningDotNet\First_Console_App\First_Console_App\First_Console_App\obj\Debug\net7.0\ref\First_Console_App.dll
