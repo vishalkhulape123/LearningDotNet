@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Vishal\\.nuget\\packages\\": {}
+    "C:\\Users\\visha\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vishal\\source\\repos\\LearningDotNet\\First_Console_App\\First_Console_App\\First_Console_App\\First_Console_App.csproj",
+      "projectUniqueName": "F:\\DotNet\\LearningDotNet\\Learning\\First_Console_App\\First_Console_App\\First_Console_App\\First_Console_App.csproj",
       "projectName": "First_Console_App",
-      "projectPath": "C:\\Users\\Vishal\\source\\repos\\LearningDotNet\\First_Console_App\\First_Console_App\\First_Console_App\\First_Console_App.csproj",
-      "packagesPath": "C:\\Users\\Vishal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vishal\\source\\repos\\LearningDotNet\\First_Console_App\\First_Console_App\\First_Console_App\\obj\\",
+      "projectPath": "F:\\DotNet\\LearningDotNet\\Learning\\First_Console_App\\First_Console_App\\First_Console_App\\First_Console_App.csproj",
+      "packagesPath": "C:\\Users\\visha\\.nuget\\packages\\",
+      "outputPath": "F:\\DotNet\\LearningDotNet\\Learning\\First_Console_App\\First_Console_App\\First_Console_App\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Vishal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\visha\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
