@@ -1,0 +1,14 @@
+F:\DotNet\LearningDotNet\LearningDotNet\BackEnd\bin\Debug\net6.0\BackEnd.exe
+F:\DotNet\LearningDotNet\LearningDotNet\BackEnd\bin\Debug\net6.0\BackEnd.deps.json
+F:\DotNet\LearningDotNet\LearningDotNet\BackEnd\bin\Debug\net6.0\BackEnd.runtimeconfig.json
+F:\DotNet\LearningDotNet\LearningDotNet\BackEnd\bin\Debug\net6.0\BackEnd.dll
+F:\DotNet\LearningDotNet\LearningDotNet\BackEnd\bin\Debug\net6.0\BackEnd.pdb
+F:\DotNet\LearningDotNet\LearningDotNet\BackEnd\obj\Debug\net6.0\BackEnd.GeneratedMSBuildEditorConfig.editorconfig
+F:\DotNet\LearningDotNet\LearningDotNet\BackEnd\obj\Debug\net6.0\BackEnd.AssemblyInfoInputs.cache
+F:\DotNet\LearningDotNet\LearningDotNet\BackEnd\obj\Debug\net6.0\BackEnd.AssemblyInfo.cs
+F:\DotNet\LearningDotNet\LearningDotNet\BackEnd\obj\Debug\net6.0\BackEnd.csproj.CoreCompileInputs.cache
+F:\DotNet\LearningDotNet\LearningDotNet\BackEnd\obj\Debug\net6.0\BackEnd.dll
+F:\DotNet\LearningDotNet\LearningDotNet\BackEnd\obj\Debug\net6.0\refint\BackEnd.dll
+F:\DotNet\LearningDotNet\LearningDotNet\BackEnd\obj\Debug\net6.0\BackEnd.pdb
+F:\DotNet\LearningDotNet\LearningDotNet\BackEnd\obj\Debug\net6.0\BackEnd.genruntimeconfig.cache
+F:\DotNet\LearningDotNet\LearningDotNet\BackEnd\obj\Debug\net6.0\ref\BackEnd.dll
